@@ -1,0 +1,13 @@
+.idea/
+.gradle/
+.groovy/
+.project
+.settings/
+bin/
+build/
+logs/
+out/
+.classpath
+*.log
+*.iml
+gradle.properties
